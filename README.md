@@ -2,7 +2,7 @@
 
 [![Build Status](https://circleci.com/gh/IONISx/xblock-pdf.svg?style=svg)](https://circleci.com/gh/IONISx/xblock-pdf)
 
-Cloned by Potaje6 to translate the buttons text
+- Cloned by Potaje6 to translate the buttons text
 
 > Course component (Open edX XBlock) that provides an easy way to embed a PDF
 
